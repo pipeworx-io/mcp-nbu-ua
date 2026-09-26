@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nbu-ua",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "National Bank of Ukraine (NBU) public statistics MCP. Keyless.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-b22cceb2c9b8801f9eb473a84a5de00029b93ec79a9fc311f69eb53ebefc410d",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-17a8c9781ec62c1a7eeec579e815d281460cbbc4b761e1e1531853bf3c76f6bb",
+    "sourceCommit": "6182c4cfebddb94950e060b5d2fca18f18ad1aca"
   }
 }
